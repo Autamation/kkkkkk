@@ -1,0 +1,14 @@
+body,
+html {
+  height: 100%;
+}
+.bg {
+  background-image: url("https://s3-ap-southeast-1.amazonaws.com/p2swebsite/images/smeKhabar/news/ToBoostExports,CommerceMinistryReleasedtheDraftofComprehensiveExportPolicy_1559108399596_477.jpg");
+  height: 100vh;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
